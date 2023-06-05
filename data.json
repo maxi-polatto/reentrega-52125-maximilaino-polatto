@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "imagen": "img/corazonchoco.jpg",
+    "titulo": "Cuore chocolate",
+    "subtitulo": " Chocolate crema fresca de Macarpone",
+    "descripcion": " Biscocuelo de chocolate crema queso mascarpone ",
+    "precio": 6500,
+    "cantidad": 1
+  },
+  {
+    "id": 2,
+    "imagen": "img/mimosa.jpg",
+    "titulo": "Torta Mimosa",
+    "subtitulo": " Torta de vainilla y crema ciboust",
+    "descripcion": " Biscocuelo de Vainlla crema chiboust aromatizada con vainlla y cubierta con trozos de biscocho",
+    "precio": 5500,
+    "cantidad": 1
+  },
+  {
+    "id": 3,
+    "imagen": "img/selvanegra.jpg",
+    "titulo": "Selva Negra",
+    "descripcion": " Biscocuelo de chocolate relleno de crema <br>fresca y cerezas amarenas",
+    "precio": 7500,
+    "cantidad": 1
+  },
+  {
+    "id": 4,
+    "imagen": "img/torta-primavera.jpg",
+    "titulo": "Torta primavera",
+    "subtitulo": " Chocolate crema y frutillas",
+    "descripcion": " Biscocuelo de chocolate crema y frutillas aromatizada con vainlla y cubierta con trozos de biscocho",
+    "precio": 5500,
+    "cantidad": 1
+  }
+]
